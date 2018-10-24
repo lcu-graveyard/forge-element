@@ -1,4 +1,4 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Logo of the project](http://fathym.com/wp-content/uploads/2018/03/Fathym-Logo_Registered_xxsm.png)
 
 # forge-element
 Core framework powering the Fathym Forge.
