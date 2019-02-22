@@ -4,7 +4,7 @@ Core framework powering the Fathym Forge.
 
 ![Logo of the project](/public/img/logo.png)
 
-As technology continues to shift and grow, a gap continues to emerge in how Enterprises can leverage a community of experienced and skilled developers.  More important, is how to leverage this community in a scalable and secure way that enables both sides to thrive in the delivery of business-critical solutions and products.
+As technology continues to shift and grow, a gap continues to emerge in how Enterprises can leverage a community of experienced and skilled developers.  More important, is how to leverage this community in a scalable and secure way that enables both sides to thrive in the delivery of business-critical solutions and products. 
 
 ## Installing / Getting started
 
